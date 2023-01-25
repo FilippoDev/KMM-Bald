@@ -16,6 +16,7 @@ kotlin {
             dependencies {
                 implementation(project(":breeds"))
                 api(project(":analytics"))
+                api(project(":ScarKMM"))
             }
         }
         val commonTest by getting {

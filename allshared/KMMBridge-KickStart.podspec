@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'KMMBridge-KickStart'
-    spec.version                  = '0.3'
+    spec.version                  = '0.4'
     spec.homepage                 = 'https://www.touchlab.co'
     spec.source                   = { :http=> ''}
     spec.authors                  = ''
