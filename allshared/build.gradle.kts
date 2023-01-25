@@ -44,6 +44,7 @@ kotlin {
         framework {
             baseName = "KMMBridgeKickStart"
             export(project(":analytics"))
+            export(project(":ScarKMM"))
             isStatic = true
         }
     }
